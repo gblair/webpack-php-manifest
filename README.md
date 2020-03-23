@@ -2,6 +2,9 @@
 
 ## PHP Manifest from Webpack
 
+__NOTE__: This repository is no longer maintained. The mantle has been taken up by the excellent folks at Cast Iron Coding. Please find the [up-to-date version of this project there](https://github.com/castiron/webpack-php-manifest).
+
+
 _Please note this module depends on webpack 2+._
 
 This webpack plugin will create a PHP file in your `output.path` directory with a PHP class in it having two static
